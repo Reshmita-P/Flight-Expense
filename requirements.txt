@@ -1,0 +1,4 @@
+scikit-learn //to_predict_ML_model
+streamlit //application
+//open.terminal.then,pip.install.'-r.requirements.txt'.enter
+//thiswilldownloadalllibraries
